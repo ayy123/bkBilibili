@@ -61,8 +61,8 @@
     var classNamesToRemove = [
         'bili-video-card is-rcmd',
         'floor-single-card',
-        'bili-live-card is-rcmd enable-no-interest',
-        'recommended-swipe grid-anchor'
+        'recommended-swipe grid-anchor',
+        'adblock-tips'
     ];
 
     function reEl(childNode){
