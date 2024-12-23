@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         bkBliBli
-// @github       https://github.com/hunmeng/bkBilibili
-// @description  哔哩哔哩首页快捷拉黑，去广告，直播推广
-// @author       lkj
-// @namespace    lkj
+// @github       https://github.com/ayy123/bkBilibili
+// @description  哔哩哔哩首页快捷拉黑，去广告，直播推广（修改自lkj）
+// @author       naya
+// @namespace    naya
 // @version      1.0.6
 // @create       2024-05-06
 // @lastmodified 2024-05-16
@@ -15,8 +15,8 @@
 // @grant        unsafeWindow
 // @compatible   chrome
 // @license      MIT
-// @downloadURL https://update.greasyfork.org/scripts/494197/bkBliBli.user.js
-// @updateURL https://update.greasyfork.org/scripts/494197/bkBliBli.meta.js
+// @downloadURL https://raw.githubusercontent.com/ayy123/bkBilibili/refs/heads/main/bkBilibili.js
+// @updateURL https://raw.githubusercontent.com/ayy123/bkBilibili/refs/heads/main/bkBilibili.js
 // ==/UserScript==
 (async function() {
     'use strict';
